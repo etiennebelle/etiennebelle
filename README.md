@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 👀  I’m interested in Front-end & Creative Coding</br>
 🌱  I’m currently learning React, TypeScript and SASS</br>
 📫  Feel free to contact me: bl.etienne7@gmail.com</br>
-📸  IG: <a href="https://www.instagram.com/bl_etienne/" target="_blank">bl_etienne</a>
+♟ Let's play chess? <a href="https://www.chess.com/member/fischermans_friend95" target="_blank"> Here </a>
