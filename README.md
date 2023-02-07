@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-👋  Hi, I’m Etienne</br>
-👀  I’m interested in Front-end & Creative Coding</br>
-🌱  I’m currently learning React, TypeScript and SASS</br>
-📫  Feel free to contact me: bl.etienne7@gmail.com</br>
-♟ Let's play chess? <a href="https://www.chess.com/member/fischermans_friend95" target="_blank"> Here </a>
+<ul>
+<li>👋  Hi, I’m Etienne </li>
+<li>👀  I’m interested in Front-end & Creative Coding </li>
+<li>🌱  I’m currently learning React, TypeScript and SASS </li>
+<li>📫  Feel free to contact me: bl.etienne7@gmail.com </li>
+<li>♟ Let's play chess? <a href="https://www.chess.com/member/fischermans_friend95" target="_blank"> Here </a> </li>
+</ul>
