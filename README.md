@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋  Hi, I’m Etienne
+👀  I’m interested in Front-end & Creative Coding
+🌱  I’m currently learning React, TypeScript and SASS
+📫  Feel free to contact me: bl.etienne7@gmail.com
+📸  IG: <a href="https://www.instagram.com/bl_etienne/" target="_blank">bl_etienne</a>
