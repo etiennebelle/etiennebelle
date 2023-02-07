@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **etiennebelle/etiennebelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋  Hi, I’m Etienne
-👀  I’m interested in Front-end & Creative Coding
-🌱  I’m currently learning React, TypeScript and SASS
-📫  Feel free to contact me: bl.etienne7@gmail.com
+👋  Hi, I’m Etienne</br>
+👀  I’m interested in Front-end & Creative Coding</br>
+🌱  I’m currently learning React, TypeScript and SASS</br>
+📫  Feel free to contact me: bl.etienne7@gmail.com</br>
 📸  IG: <a href="https://www.instagram.com/bl_etienne/" target="_blank">bl_etienne</a>
