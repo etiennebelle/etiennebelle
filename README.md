@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <ul>
 <li>👋  Hi, I’m Etienne </li>
 <li>👀  I’m interested in Front-end & Creative Coding </li>
-<li>🌱  I’m currently learning React, TS and CSS Animations </li>
+<li>🌱  I’m currently learning React, Typescript and CSS Animations </li>
 <li>📫  Feel free to contact me: bl.etienne7@gmail.com </li>
 <li>♟ Let's play chess? <a href="https://www.chess.com/member/fischermans_friend95" target="_blank"> Here </a> </li>
 </ul>
