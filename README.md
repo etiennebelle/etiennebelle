@@ -4,7 +4,7 @@
 -->
 ## 👀 Hi, I’m Etienne
 I'm a Full-Stack Developer with a background in Art Direction & Graphic Design
-## ⚗️ I'm building with...
+## 🚧 I'm building with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
