@@ -20,4 +20,4 @@
 ![](https://img.shields.io/badge/GraphQl-informational?style=flat&logo=GraphQl&logoColor=ColorName&color=black)
 
 ## 📫  Feel free to contact me: bl.etienne7@gmail.com
-## ♟ Let's play chess? <a href="https://www.chess.com/member/fischermans_friend95" target="_blank"> Here </a>
+♟ Let's play chess? <a href="https://www.chess.com/member/fischermans_friend95" target="_blank"> Here </a>
