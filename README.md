@@ -1,23 +1,21 @@
 <!--
 **etiennebelle/etiennebelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<ul>
-<li>👋  Hi, I’m Etienne </li>
-<li>👀  I’m interested in Front-end & Creative Coding </li>
-<li>🌱  I’m currently learning React, TypeScript and SASS </li>
-<li>📫  Feel free to contact me: bl.etienne7@gmail.com </li>
-<li>♟ Let's play chess? <a href="https://www.chess.com/member/fischermans_friend95" target="_blank"> Here </a> </li>
-</ul>
+👋  Hi, I’m Etienne
+🔮 I'm building with...
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
+
+🌱  I’m currently learning...
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/GraphQl-informational?style=flat&logo=GraphQl&logoColor=ColorName&color=black)
+
+📫  Feel free to contact me: bl.etienne7@gmail.com
+♟ Let's play chess? <a href="https://www.chess.com/member/fischermans_friend95" target="_blank"> Here </a>
