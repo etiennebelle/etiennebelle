@@ -13,10 +13,12 @@
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
 <br/>
+<br/>
  🌱  I’m currently learning...<br/>
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GraphQl-informational?style=flat&logo=GraphQl&logoColor=ColorName&color=black)
+<br/>
 <br/>
 📫  Feel free to contact me: bl.etienne7@gmail.com
 <br/>
