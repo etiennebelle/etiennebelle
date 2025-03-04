@@ -3,7 +3,7 @@
 
 -->
 ## 👀 Hi, I’m Etienne
-I'm a Full-Stack Developer with a background in Art Direction & Graphic Design
+I'm a frontend developer with a background in Art Direction & Graphic Design
 
 <!-- ## 🚧 I'm building with
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
